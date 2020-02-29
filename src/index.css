@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.flex-flow-row{
+  flex-flow:row;
+}
+.added-items {
+  border:1px dotted gray;
+  border-radius:5px;
+  padding:10px;
+}
